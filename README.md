@@ -1,16 +1,12 @@
-### Hi there 👋
+Привет Всем, меня зовут Дмитрий 👋
 
-<!--
-**MininDmitriy/MininDmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ В 2023 году я окончил курсы на Я.Практикум и на данный момент я нахожусь в поиске работы в области frontend-разработки.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Имеются знания в следующих стеках технологий: 
+- React;
+- HTML5;
+- CSS3;
+- JavaScript;
+- Webstorm;
+- Visual Studio Code$
+- Git.
